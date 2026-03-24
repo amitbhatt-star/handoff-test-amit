@@ -1,0 +1,8 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.5.8'
+}
+
+group = 'com.medline'
+version = '1.0.0-SNAPSHOT'
+sourceCompatibility = '25'

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-03-24T05:17:24.761705+00:00",
+  "ab2_commit": "30c44a920e507b4c6663331175b072e5a8369f85",
+  "exclude_patterns": [
+    ".gitlab-ci.yml",
+    ".gitlab/"
+  ],
+  "files": [
+    "README.md",
+    "build.gradle",
+    "src/main/java/com/medline/handofftest/Application.java",
+    "src/main/resources/application.yml",
+    "src/test/java/com/medline/handofftest/GreetingServiceTest.java"
+  ]
+}
