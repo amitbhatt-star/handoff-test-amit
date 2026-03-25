@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T16:38:10.408341+00:00",
-  "ab2_commit": "95737c5568b522b70ac0bae3ddcc0ace6899eae6",
+  "generated_at": "2026-03-25T05:16:36.671865+00:00",
+  "ab2_commit": "175a58b9a7e41e7931117fc92f73e9b012ee6855",
   "exclude_patterns": [
     ".gitlab-ci.yml",
     ".gitlab/"
@@ -8,11 +8,11 @@
   "files": [
     ".gitignore",
     "README.md",
+    "branch-only.txt",
     "build.gradle",
     "src/main/java/com/medline/handofftest/Application.java",
     "src/main/resources/application.yml",
     "src/main/resources/real-life-check-txt",
-    "src/test/java/com/medline/handofftest/GreetingServiceTest.java",
-    "sync-test.txt"
+    "src/test/java/com/medline/handofftest/GreetingServiceTest.java"
   ]
 }
